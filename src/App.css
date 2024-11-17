@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+body {
+  font-family: "Poppins", sans-serif !important;
+}
+.cursor-pointor {
+  cursor: pointer;
+}
+.text-red {
+  color: #ed174a;
+}
+.text-blue {
+  color: #233a95;
+}
+.bg-red {
+  background-color: #ed174a !important;
+  border-color: #ed174a !important;
+  color: #fff !important;
+}
+.cursor-pointor {
+  cursor: pointer;
+}
+.coustom-nav-link {
+  color: white;
+  cursor: pointer;
+  text-decoration: none;
+  list-style: none;
+  display: inline-block;
+}

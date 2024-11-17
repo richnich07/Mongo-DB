@@ -1,0 +1,197 @@
+[
+  {
+    "name": "Lean meats",
+    "type": "best-seller",
+    "categroy": "meat-seafood",
+    "photo": "https://i.ibb.co/5hW35z0/lean-meats.png",
+    "price": 23,
+    "description": "Beef is the culinary name for meat from cattle. In prehistoric times, humans hunted aurochs and later domesticated them. Since then, numerous breeds of cattle have been bred specifically for the quality or quantity of their meat. Today, beef is the third most widely consumed meat in the world, after pork and poultry.",
+    "weight": "1 kg"
+  },
+  {
+    "name": "Chiken meats",
+    "type": "best-seller",
+    "categroy": "meat-seafood",
+    "photo": "https://i.ibb.co/vBXNJYM/chiken-meat.png",
+    "price": 15,
+    "description": "Chicken is the most common type of poultry in the world.Owing to the relative ease and low cost of raising chickens—in comparison to mammals such as cattle or hogs—chicken meat commonly called just chicken and chicken eggs have become prevalent in numerous cuisines.  Chicken can be prepared in a vast range of ways, including baking, grilling, barbecuing, frying, and boiling. Since the latter half of the 20th century, prepared chicken has become a staple of fast food. Chicken is sometimes cited as being more healthful than red meat, with lower concentrations of cholesterol and saturated fat.",
+    "weight": "1 kg"
+  },
+  {
+    "name": "salmon-fish",
+    "type": "best-seller",
+    "categroy": "meat-seafood",
+    "photo": "https://i.ibb.co/1szJWb2/salmon-fish.png",
+    "price": 15,
+    "description": "Salmon  is the common name for several species of ray-finned fish in the family Salmonidae. Other fish in the same family include trout, char, grayling, and whitefish. Salmon are native to tributaries of the North Atlantic (genus Salmo) and Pacific Ocean (genus Oncorhynchus). Many species of salmon have been introduced into non-native environments such as the Great Lakes of North America and Patagonia in South America. Salmon are intensively farmed in many parts of the world",
+    "weight": "1.5 kg"
+  },
+  {
+    "name": "Nestle Coffee mate Coffee Creamer",
+    "type": "best-seller",
+    "categroy": "beverages",
+    "photo": "https://i.ibb.co/XjfD4mD/coffe-mate-creamer.png",
+    "price": 22.65,
+    "description": "Non-Dairy Coffee Creamer: Nestle Coffee mate Original coffee creamers add a rich, velvety smooth, classic creamer flavor to your cup of coffee  Perfect for Here or On-the-Go: Stir our liquid creamer into a cup of coffee for a delicious flavor that's lactose and cholesterol-free; blends quickly and completely with hot and cold beverages  Delicious Flavor You Can Rely On: Shelf stable, no refrigeration needed, retain their delicious flavor at room temperature for up to 9 months; ship and store between 50°F and 80°F Dietary Benefits: Non-Dairy + Lactose-Free + Cholesterol-Free + Gluten-Free  Kosher Dair"
+  },
+  {
+    "name": "Chocolate Cookies",
+    "type": "best-seller",
+    "categroy": "bakery",
+    "photo": "https://i.ibb.co/fvVRXJx/chocolate-cookies.png",
+    "price": 15.65,
+    "description": " This deluxe present box contains 4 biscotti of each flavor: chocolate craisin, chocolate chip, caramel chip, nut crunch, almond crunch, and cookie crunch. All Barnett’s confections are Kosher Certified CRC Hisachdus and non-dairy.",
+    "weight": "1 kg"
+  },
+  {
+    "name": "chiken-meatballs",
+    "type": "best-seller",
+    "categroy": "meat-seafood",
+    "photo": "https://i.ibb.co/6Rq2vP7/chiken-meatballs.png",
+    "price": 13.65,
+    "description": "All Kazi Farms Kitchen products are prepared with chickens that are vegetable-fed and completely free of harmful preservatives, antibiotic residue, and tasting salt. We are dedicated to providing your family with mouth-watering and healthy food products. No Harmful PreservativesPreservatives used in food products can be severely harmful for human health. Kazi Farms Kitchen products do not contain any harmful preservatives. No Antibiotic Residue Chickens on farms are sometimes given antibiotics to treat bacterial infections. When people eat farmed chickens or products made from those chickens, they unknowingly consume 'residual' antibiotics, which may still have been in the chicken's body at the time of slaughter. This may end up building resistance to antibiotics in the human body. We guarantee that there are no residual antibiotics in Kazi Farms Kitchen products.",
+    "weight": "1 kg"
+  },
+  {
+    "name": "Fresh Cauliflower",
+    "type": "best-seller",
+    "categroy": "fruits-vegetables",
+    "photo": "https://i.ibb.co/Czqgywx/cauliflower.png",
+    "price": 9.37,
+    "description": "Cauliflower is one of several vegetables in the species Brassica oleracea in the genus Brassica, which is in the Brassicaceae (or Mustard) family. It is an annual plant that reproduces by seed. Typically, only the head is eaten – the edible white flesh sometimes called 'curd' (with a similar appearance to cheese curd). The cauliflower head is composed of a white inflorescence meristem. Cauliflower heads resemble those in broccoli, which differs in having flower buds as the edible portion. Brassica oleracea also includes broccoli, Brussels sprouts, cabbage, collard greens, and kale, collectively called 'cole'crops, though they are of different cultivar groups.",
+    "weight": "1kg"
+  },
+  {
+    "name": "B&M Brown Bread",
+    "type": "best-seller",
+    "categroy": "bakery",
+    "photo": "https://i.ibb.co/KDHnqTT/B-M-brown-bread.png",
+    "price": 49.37,
+    "description": " B&M Brown Raisin Bread has been served to families across the country for decades. This shelf stable bread has a two year shelf life from the date of manufacture, making it a pantry staple for generations. Spread B&M Original Brown Bread with cream cheese, peanut butter and jam, or flavored cheese spreads topped with luncheon meat..Authentic New England taste since 1870. Slow baked in traditional brick ovens. 99% fat free"
+  },
+  {
+    "name": "Chocolate Cookies",
+    "type": "new-products",
+    "categroy": "bakery",
+    "photo": "https://i.ibb.co/k3YcDJf/granny-chocolate-cookie.png",
+    "price": 15.65,
+    "description": " This deluxe present box contains 4 biscotti of each flavor: chocolate craisin, chocolate chip, caramel chip, nut crunch, almond crunch, and cookie crunch. All Barnett’s confections are Kosher Certified CRC Hisachdus and non-dairy."
+  },
+  {
+    "name": "Dan Cake Chocolate Pound Cake,",
+    "type": "new-products",
+    "categroy": "bakery",
+    "photo": "https://i.ibb.co/TLz0qCk/dan-cake.png",
+    "price": 5.65,
+    "description": " This deluxe present box contains 4 biscotti of each flavor: chocolate craisin, chocolate chip, caramel chip, nut crunch, almond crunch, and cookie crunch. All Barnett’s confections are Kosher Certified CRC Hisachdus and non-dairy.",
+    "weight": "320gm 1 box"
+  },
+  {
+    "name": "Guinness Beer Chocolate Stout Liquor Cake",
+    "type": "new-products",
+    "categroy": "bakery",
+    "photo": "https://i.ibb.co/n1rry66/Guinness-Beer-Cake.png",
+    "price": 15.65,
+    "description": "GUINNESS LIQUOR CAKE: Our Guinness chocolate pound loaf cake is baked with the authentic taste of Guinness Stout. Calling all chocolate cake lovers: give our cake a taste!",
+    "weight": "12 pic"
+  },
+  {
+    "name": "Tuna Sea-fish",
+    "type": "new-products",
+    "categroy": "meat-seafood",
+    "photo": "https://i.ibb.co/9NbRjhy/tuna.png",
+    "price": 15,
+    "description": "Tuna Sea Fish is a tasty and delicious fish of sea salt. It is a good source of nutrition. Prepare delicious dishes for your family with this tasty fish. For this, Eorder has brought to you the Premium Tuna Sea Fish. Buy it at the best price. You can eat this fish without worrying about any harmful chemicals. This saltwater fish is commonly known as Tuna the south-western area in Bangladesh and famous for its amazing taste.",
+    "weight": "2 kg"
+  },
+  {
+    "name": "Loitta Sea-fish",
+    "type": "new-products",
+    "categroy": "meat-seafood",
+    "photo": "https://i.ibb.co/fpwcTSg/loitta.png",
+    "price": 10,
+    "description": "Loitta fish, which is quite delicate and very fleshy fish. It is native to waters between and’s also found in the Bay of Bengal. Loitta Sea Fish is a tasty and delicious fish of sea salt. It is a good source of nutrition. Prepare delicious dishes for your family with this tasty fish. For this, Eorder has brought to you the Premium Loitta Sea Fish. Buy it at the best price. You can eat this fish without worrying about any harmful chemicals. This saltwater fish is commonly known as Loitta the south-western area in Bangladesh and famous for its amazing taste.",
+    "weight": "1 kg"
+  },
+  {
+    "name": "Baila Sea Fish",
+    "type": "new-products",
+    "categroy": "meat-seafood",
+    "photo": "https://i.ibb.co/YN3t1v5/baila.png",
+    "price": 10,
+    "description": "Baila Sea Fish is a tasty and delicious fish of sea salt. It is a good source of nutrition. Prepare delicious dishes for your family with this tasty fish. For this, Eorder has brought to you the Premium Baila Sea Fish. Buy it at the best price. You can eat this fish without worrying about any harmful chemicals. This saltwater fish is commonly known as Baila the south-western area in Bangladesh and famous for its amazing taste.",
+    "weight": "1 kg"
+  },
+  {
+    "name": "Fresh Strawberry",
+    "type": "new-products",
+    "categroy": "fruits-vegetables",
+    "photo": "https://i.ibb.co/TqFyp5y/strawberries.png",
+    "price": 25.37,
+    "description": "The garden strawberry (or simply strawberry; Fragaria × ananassa)is a widely grown hybrid species of the genus Fragaria, collectively known as the strawberries, which are cultivated worldwide for their fruit. The fruit is widely appreciated for its characteristic aroma, bright red color, juicy texture, and sweetness. It is consumed in large quantities, either fresh or in such prepared foods as jam, juice, pies, ice cream, milkshakes, and chocolates. Artificial strawberry flavorings and aromas are also widely used in products such as candy, soap, lip gloss, perfume, and many others.",
+    "weight": "1kg"
+  },
+  {
+    "name": "Fresh Potatoes",
+    "type": "new-products",
+    "categroy": "fruits-vegetables",
+    "photo": "https://i.ibb.co/BtyLGWc/potatoes.png",
+    "price": 23.37,
+    "description": "Broccoli (Brassica oleracea var. italica) is an edible green plant in the cabbage family (family Brassicaceae, genus Brassica) whose large flowering head, stalk and small associated leaves are eaten as a vegetable. Broccoli is classified in the Italica cultivar group of the species Brassica oleracea. Broccoli has large flower heads, usually dark green, arranged in a tree-like structure branching out from a thick stalk which is usually light green. The mass of flower heads is surrounded by leaves",
+    "weight": "3kg"
+  },
+  {
+    "name": "Fresh Broccoli",
+    "type": "new-products",
+    "categroy": "fruits-vegetables",
+    "photo": "https://i.ibb.co/p0kTNvX/broccoli.png",
+    "price": 12.37,
+    "description": "The potato is a starchy tuber of the plant Solanum tuberosum and is a root vegetable native to the Americas. The plant is a perennial in the nightshade family Solanaceae. Wild potato species can be found throughout the Americas, from Canada to southern Chile. The potato was originally believed to have been domesticated by Native Americans independently in multiple locations, but later genetic traced a single origin, in the area of present-day southern Peru and extreme northwestern Bolivia. Potatoes were domesticated there approximately 7,000–10,000 years ago, from a species in the Solanum brevicaule complex. In the Andes region of South America, where the species is indigenous, some close relatives of the potato are cultivated",
+    "weight": "3kg"
+  },
+  {
+    "name": "Fresh Broccoli",
+    "type": "new-products",
+    "categroy": "fruits-vegetables",
+    "photo": "https://i.ibb.co/mRJYC2p/cucumbers.png",
+    "price": 4.58,
+    "description": "Cucumber (Cucumis sativus) is a widely-cultivated creeping vine plant in the Cucurbitaceae family that bears usually cylindrical fruits, which are used as vegetables.[1] Considered an annual plant,[2] there are three main varieties of cucumber — slicing, pickling, and burpless/seedless — within which several cultivars have been created.",
+    "weight": "1kg"
+  },
+  {
+    "name": "Fresh Carrots ",
+    "type": "new-products",
+    "categroy": "fruits-vegetables",
+    "photo": "https://i.ibb.co/YcCw1h9/carrots.png",
+    "price": 5.58,
+    "description": "The carrot (Daucus carota subsp. sativus) is a root vegetable, typically orange in color, though purple, black, red, white, and yellow cultivars exist,[2][3][4] all of which are domesticated forms of the wild carrot, Daucus carota, native to Europe and Southwestern Asia. The plant probably originated in Persia and was originally cultivated for its leaves and seeds.",
+    "weight": "1kg"
+  },
+  {
+    "name": "Fresh tomatoes ",
+    "type": "new-products",
+    "categroy": "fruits-vegetables",
+    "photo": "https://i.ibb.co/RpNFvDN/tomatoes.png",
+    "price": 4.59,
+    "description": "The tomato is the edible berry of the plant Solanum lycopersicum, commonly known as a tomato plant. The species originated in western South America and Central America.[2][3] The Nahuatl word tomatl gave rise to the Spanish word tomate, from which the English word tomato derived. Its domestication and use as a cultivated food may have originated with the indigenous peoples of Mexico",
+    "weight": "1kg"
+  },
+  {
+    "name": "Fresh Onion ",
+    "type": "new-products",
+    "categroy": "fruits-vegetables",
+    "photo": "https://i.ibb.co/hDNn4QQ/Onion.png",
+    "price": 4.59,
+    "description": "The onion Allium cepa L., from Latin cepa 'onion', also known as the bulb onion or common onion, is a vegetable that is the most widely cultivated species of the genus Allium. The shallot is a botanical variety of the onion which was classified as a separate species until 2010.",
+    "weight": "1kg"
+  },
+  {
+    "name": "Fresh Onion ",
+    "type": "new-products",
+    "categroy": "fruits-vegetables",
+    "photo": "https://i.ibb.co/gwRZgWS/bananas.png",
+    "price": 4.59,
+    "description": "A banana is an elongated, edible fruit – botanically a berry[1][2] – produced by several kinds of large herbaceous flowering plants in the genus Musa.[3] In some countries, bananas used for cooking may be called 'plantains', distinguishing them from dessert bananas. The fruit is variable in size, color, and firmness, but is usually elongated and curved, with soft flesh rich in starch covered with a rind, which may be green, yellow, red, purple, or brown when ripe. The fruits grow upward in clusters near the top of the plant",
+    "weight": "1kg"
+  }
+]
